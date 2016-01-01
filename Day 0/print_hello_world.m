@@ -1,1 +1,1 @@
-printf("Hello World\n");
+printf("Hello World.\nWelcome to 30 Days of Code.");
