@@ -1,12 +1,12 @@
 # HackerRank-30-days-of-code
-Contest on HackerRank.com, where Ireciev a problem every day for 30 days.
+Contest on HackerRank.com, where I recieve a problem every day for 30 days.
 Solve problems in 
   - C++
+  - Python
+  - Scala
   - Java
   - C
-  - Python
   - Haskell
-  - Scala
+  - Javascript (Node.js)
   - Ruby
   - Octave/Matlab
-  - Javascript

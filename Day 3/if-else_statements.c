@@ -7,7 +7,7 @@ int main(){
     if (N % 2)
         printf("Weird");
     else {
-        if ((N >= 6 && N <= 20))
+        if (N >= 6 && N <= 20)
             printf("Weird");
         else printf("Not Weird");
     }
