@@ -8,5 +8,6 @@ Solve problems in
   - C
   - Haskell
   - Javascript (Node.js)
+  - C#
   - Ruby
   - Octave/Matlab
