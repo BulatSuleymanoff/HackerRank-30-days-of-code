@@ -51,7 +51,7 @@ function main() {
     	var age = parseInt(readLine());
     	var p = new Person(age);
     	p.amIOld();
-    	for(j = 0; j < 3;j++){
+    	for(j = 0; j < 3; j++) {
         	p.yearPasses(); 
     	}
     	p.amIOld();
